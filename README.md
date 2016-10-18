@@ -12,6 +12,7 @@
 * ***Numpy***:    ```pip install numpy``` - [Installation instructions](http://docs.scipy.org/doc/numpy-1.10.1/user/install.html)
 * ***Matplotlib***: ```easy_install matplotlib```(Windows) or ```pip install matplotlib```(MacOS) - [Installation instructions]()
 * ***Pandas***:   ```pip install pandas``` - [Installation instructions](http://pandas.pydata.org/pandas-docs/stable/install.html)
+* ***scipy (>0.9)***: ```pip install ? ```
 * ***keras***:    ```pip install ?``` - [Installation instructions](https://docs.djangoproject.com/en/1.8/topics/install)
 * ***sklearn***: ```pip install ? ``` [Installation instructions](https://geert.vanderkelen.org/2014/install-mysqlcpy-using-pip/)
 
