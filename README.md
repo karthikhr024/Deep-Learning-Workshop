@@ -4,7 +4,7 @@
 
 ### Requirements:
 * Python **2.7** is the required version of Python for these classes.
-* Python libraries required: **IPython notebook**, **Numpy**, **Matplotlib**, **Pandas**, **Keras**, **sklearn**.
+* Python libraries required: **IPython notebook**, **Numpy**, **Matplotlib**, **Pandas**, **Keras**, **sklearn**,**Scipy**,**theano**.
 
 **==> If you have an existing Python 2.7 installation:**
 * ***pip*** (*should be installed on recent Python distributions*) -  [Installation instructions](http://python-packaging-user-guide.readthedocs.org/en/latest/installing/#install-pip-setuptools-and-wheel).
@@ -13,6 +13,7 @@
 * ***Matplotlib***: ```easy_install matplotlib```(Windows) or ```pip install matplotlib```(MacOS) - [Installation instructions]()
 * ***Pandas***:   ```pip install pandas``` - [Installation instructions](http://pandas.pydata.org/pandas-docs/stable/install.html)
 * ***scipy***: ```pip install ? ```
+* ***theano***: ```pip install ? ```
 * ***keras***:    ```pip install ?``` - [Installation instructions](https://docs.djangoproject.com/en/1.8/topics/install)
 * ***sklearn***: ```pip install ? ``` [Installation instructions](https://geert.vanderkelen.org/2014/install-mysqlcpy-using-pip/)
 
