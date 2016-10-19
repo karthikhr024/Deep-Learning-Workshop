@@ -35,9 +35,9 @@ The first bullet provides  a minimal installation of Python, allowing you to con
 ### Run IPython Notebook
 **Anaconda distribution:**
 * Copy the IPython Notebook launcher from the menu to the desktop.
-* Right click on the new launcher and change the ```Start in``` field by pasting the full path of the folder which will contain all the notebooks: ```/path/to/python_classes```.
+* Right click on the new launcher and change the ```Start in``` field by pasting the full path of the folder which will contain all the notebooks: ```/path/to/Deep-Learning-Workshop```.
 * Double-click on the IPython Notebook desktop launcher (icon shows [IPy]) to start the Jupyter Notebook App.
 
 **Command line:**
-* ```cd /path/to/python_classes```
+* ```cd /path/to/Deep-Learning-Workshop```
 * ```ipython notebook``` (```ipython/jupyter``` has to be in your ```PATH```)
