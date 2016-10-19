@@ -13,8 +13,8 @@
 * ***Matplotlib***: ```easy_install matplotlib```(Windows) or ```pip install matplotlib```(MacOS) - [Installation instructions]()
 * ***Pandas***:   ```pip install pandas``` - [Installation instructions](http://pandas.pydata.org/pandas-docs/stable/install.html)
 * ***theano***:  [Installation instructions](http://deeplearning.net/software/theano/install.html)
-* ***keras***:    ```pip install ?``` - [Installation instructions](https://docs.djangoproject.com/en/1.8/topics/install)
-* ***sklearn***: ```pip install ? ``` [Installation instructions](https://geert.vanderkelen.org/2014/install-mysqlcpy-using-pip/)
+* ***keras***:    ```pip install keras``` - [Installation instructions](https://keras.io/#installation)
+* ***sklearn***:  [Installation instructions](http://scikit-learn.org/stable/install.html)
 
 **==> If you don't have any Python 2.7 installation:**
 
