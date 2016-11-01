@@ -4,17 +4,15 @@
 
 ### Requirements:
 * Python **2.7** is the required version of Python for these classes.
-* Python libraries required: **IPython notebook**, **Numpy**, **Matplotlib**, **Pandas**, **Keras**, **sklearn**,**Scipy**,**theano**.
+* Python libraries required: **IPython notebook**, **Numpy/scipy**, **Pandas**, **theano**, **lasagne**.
 
 **==> If you have an existing Python 2.7 installation:**
 * ***pip*** (*should be installed on recent Python distributions*) -  [Installation instructions](http://python-packaging-user-guide.readthedocs.io/installing/#install-pip-setuptools-and-wheel).
 * ***IPython notebook*** - ```pip install jupyter``` - [Installation instructions](http://jupyter.readthedocs.org/en/latest/install.html)
-* ***Numpy***:    ```pip install numpy``` - [Installation instructions](http://docs.scipy.org/doc/numpy-1.10.1/user/install.html)
-* ***Matplotlib***: ```easy_install matplotlib```(Windows) or ```pip install matplotlib```(MacOS) - [Installation instructions]()
-* ***Pandas***:   ```pip install pandas``` - [Installation instructions](http://pandas.pydata.org/pandas-docs/stable/install.html)
+* ***Numpy/scipy***:    ```pip install numpy``` - [Installation instructions](http://www.scipy.org/scipylib/building/index.html)
+* ***lasagne***:  [Installation instructions](http://lasagne.readthedocs.io/en/latest/user/installation.html)
 * ***theano***:  [Installation instructions](http://deeplearning.net/software/theano/install.html)
-* ***keras***:    ```pip install keras``` - [Installation instructions](https://keras.io/#installation)
-* ***sklearn***:  [Installation instructions](http://scikit-learn.org/stable/install.html)
+* ***Pandas***:   ```pip install pandas``` - [Installation instructions](http://pandas.pydata.org/pandas-docs/stable/install.html)
 
 **==> If you don't have any Python 2.7 installation:**
 
