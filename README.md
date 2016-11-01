@@ -8,11 +8,11 @@
 
 **==> If you have an existing Python 2.7 installation:**
 * ***pip*** (*should be installed on recent Python distributions*) -  [Installation instructions](http://python-packaging-user-guide.readthedocs.io/installing/#install-pip-setuptools-and-wheel).
-* ***IPython notebook*** - ```pip install jupyter``` - [Installation instructions](http://jupyter.readthedocs.org/en/latest/install.html)
 * ***Numpy/scipy***:    ```pip install numpy``` - [Installation instructions](http://www.scipy.org/scipylib/building/index.html)
 * ***lasagne***:  [Installation instructions](http://lasagne.readthedocs.io/en/latest/user/installation.html)
 * ***theano***:  [Installation instructions](http://deeplearning.net/software/theano/install.html)
 * ***Pandas***:   ```pip install pandas``` - [Installation instructions](http://pandas.pydata.org/pandas-docs/stable/install.html)
+* ***IPython notebook*** - ```pip install jupyter``` - [Installation instructions](http://jupyter.readthedocs.org/en/latest/install.html)
 
 **==> If you don't have any Python 2.7 installation:**
 
