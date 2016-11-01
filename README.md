@@ -7,7 +7,7 @@
 * Python libraries required: **IPython notebook**, **Numpy/scipy**, **Pandas**, **theano**, **lasagne**.
 
 **==> If you have an existing Python 2.7 installation:**
-* ***pip*** (*should be installed on recent Python distributions*) -  [Installation instructions](http://python-packaging-user-guide.readthedocs.io/installing/#install-pip-setuptools-and-wheel).
+* ***pip*** (*should be installed on recent Python distributions*) -  [Installation instructions](http://python-packaging-user-guide.readthedocs.io/installing/#install-pip-setuptools-and-wheel). For windows users: If pip is not recognized make sure it is added to the path [Instruction on this error](http://stackoverflow.com/questions/23708898/pip-is-not-recognized-as-an-internal-or-external-command)
 * ***Numpy/scipy***:    ```pip install numpy``` - [Installation instructions](http://www.scipy.org/scipylib/building/index.html)
 * ***lasagne***:  [Installation instructions](http://lasagne.readthedocs.io/en/latest/user/installation.html)
 * ***theano***:  [Installation instructions](http://deeplearning.net/software/theano/install.html)
