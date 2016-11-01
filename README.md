@@ -3,25 +3,24 @@
 ==
 
 ### Requirements:
-* Python **2.7** is the required version of Python for these classes. For windows users: make sure python path is added to your enviroment variables - [Instruction](http://stackoverflow.com/questions/21372637/installing-python-2-7-on-windows-8)
-* Python libraries required: **IPython notebook**, **Numpy/scipy**, **Pandas**, **theano**, **lasagne**.
+* Python **2.7** is the required version of Python for these classes. 
+* ***Python*** [Installation Instructions](https://www.python.org/downloads/)
+  * Once installed, make sure you add C:\Python27 and C:\Python27\Scripts to your ```%PATH```. This is important for windows users-[follow this link to learn how to add the path to your enviromental variables in windows](http://stackoverflow.com/questions/21372637/installing-python-2-7-on-windows-8)
+* Python libraries required: **IPython notebook**, **Numpy/scipy**, **theano**, **lasagne**.
 
-**==> If you have an existing Python 2.7 installation:**
+**==> If you have an existing Python 2.7 installation and you are a Mac user install the following packages:**
 * ***pip*** (*should be installed on recent Python distributions*) -  [Installation instructions](http://python-packaging-user-guide.readthedocs.io/installing/#install-pip-setuptools-and-wheel). For windows users: If pip is not recognized make sure it is added to the path - [Follow instruction on this error here](http://stackoverflow.com/questions/23708898/pip-is-not-recognized-as-an-internal-or-external-command)
 * ***Numpy/scipy***:    ```pip install numpy``` - [Installation instructions](http://www.scipy.org/scipylib/building/index.html)
 * ***lasagne***:  [Installation instructions](http://lasagne.readthedocs.io/en/latest/user/installation.html)
 * ***theano***:  [Installation instructions](http://deeplearning.net/software/theano/install.html)
-* ***Pandas***:   ```pip install pandas``` - [Installation instructions](http://pandas.pydata.org/pandas-docs/stable/install.html)
 * ***IPython notebook*** - ```pip install jupyter``` - [Installation instructions](http://jupyter.readthedocs.org/en/latest/install.html)
 
-**==> If you don't have any Python 2.7 installation:**
+**==> If you are a windows user follow the steps below for simple installation of Theano and Lasagne under Anaconda:**
 
-Follow ***either*** one of the following bullets.
-The first bullet provides  a minimal installation of Python, allowing you to control your Python installation. The second bullet installs Python Anaconda, a fully-featured Python installation for scientific computing.
-* ***Python*** [Installation Instructions](https://www.python.org/downloads/)
-  * Once installed, add C:\Python27 and C:\Python27\Scripts to your ```%PATH```.
-  * Follow the steps in '==> If you have an existing Python 2.7 installation'.
+Python Anaconda is a fully-featured Python installation for scientific computing and contains numpy and scipy
+
 * ***Python Anaconda*** (fully-featured Python installation for scientific computing): [Installation instructions](http://docs.continuum.io/anaconda/install) - Choose the **Python 2.7** installation.
+  * Once you instal
   * ***Ipython notebook***: ```conda install jupyter```
 
 
