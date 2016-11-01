@@ -17,11 +17,17 @@
 
 **==> If you are a windows user follow the steps below for simple installation of Theano and Lasagne under Anaconda:**
 
-Python Anaconda is a fully-featured Python installation for scientific computing and contains numpy and scipy
+Python Anaconda is a fully-featured Python installation for scientific computing and contains numpy and scipy.
 
-* ***Python Anaconda*** (fully-featured Python installation for scientific computing): [Installation instructions](http://docs.continuum.io/anaconda/install) - Choose the **Python 2.7** installation.
-  * Once you instal
+* ***Python Anaconda*** (fully-featured Python installation for scientific computing): [Installation instructions](http://docs.continuum.io/anaconda/install) - Choose the **Python 2.7** for windows 32 or 64 installation depending on your machine. Make sure you add the path of your Anaconda2 to enviroment variables similarly.
+  * Once Anaconda is installed open a terminal and install the following packages:
+  * ***Theano***: ```conda install theano```
+  * ***MINGW***: ```conda install mingw libpython```
+  * ***Lasagne***: ```conda install lasagne```
+     
+     
   * ***Ipython notebook***: ```conda install jupyter```
+  
 
 
 ### Download class materials
