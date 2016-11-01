@@ -3,7 +3,7 @@
 ==
 
 ### Requirements:
-* Python **2.7** is the required version of Python for these classes. Fo windows users: make sure python path is added to your enviroment variables - [Instruction](http://stackoverflow.com/questions/21372637/installing-python-2-7-on-windows-8)
+* Python **2.7** is the required version of Python for these classes. For windows users: make sure python path is added to your enviroment variables - [Instruction](http://stackoverflow.com/questions/21372637/installing-python-2-7-on-windows-8)
 * Python libraries required: **IPython notebook**, **Numpy/scipy**, **Pandas**, **theano**, **lasagne**.
 
 **==> If you have an existing Python 2.7 installation:**
