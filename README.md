@@ -22,7 +22,7 @@ Python Anaconda is a fully-featured Python installation for scientific computing
 * ***Python Anaconda*** (fully-featured Python installation for scientific computing): [Installation instructions](http://docs.continuum.io/anaconda/install) - Choose the **Python 2.7** for windows 32 or 64 installation depending on your machine. Make sure you add the path of your Anaconda2 to enviroment variables similarly.
   * Once Anaconda is installed open a terminal and install the following packages:
   * ***Theano***: ```conda install theano```
-  * ***MINGW***: ```conda install mingw libpython```
+  * ***mingw***: ```conda install mingw libpython```
   * ***Lasagne***: ```conda install lasagne```
      
      
